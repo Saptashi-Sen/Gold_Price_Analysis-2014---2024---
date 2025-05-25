@@ -7,7 +7,7 @@ This project performs time series decomposition and stationarity analysis on **d
 
 ## Dataset Description
 - **Source**: MCX Market
-- **Range**: 2015-01-01 to 2024-10-31
+- **Range**: 2014-01-01 to 2024-10-31
 - **Variable Used**: Daily closing `Price`
 
 ---

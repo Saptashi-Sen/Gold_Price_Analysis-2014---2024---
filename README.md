@@ -1,4 +1,4 @@
-# Gold Price Time Series Analysis (2015–2024)
+# Gold Price Time Series Analysis (2014–2024)
 
 ## Overview
 This project performs time series decomposition and stationarity analysis on **daily gold prices** from 2015 to 2024, sourced from MCX market data. The analysis involves STL decomposition, ADF testing, autocorrelation diagnostics, and AR(2) model specification to understand price trends and enable forecasting.
